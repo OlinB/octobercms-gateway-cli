@@ -12,7 +12,7 @@ class GetProjectCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'october:project {project_id : The Project ID}';
+    protected $signature = 'gateway:project {project_id : The Project ID}';
 
     /**
      * The console command description.

@@ -13,7 +13,7 @@ class ListProjectsCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'october:list';
+    protected $signature = 'gateway:list';
 
     /**
      * The console command description.
